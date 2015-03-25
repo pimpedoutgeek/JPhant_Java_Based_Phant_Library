@@ -41,8 +41,8 @@ package jPhant_Test;
 // Retries on Errors?
 // * Rcvd:'[[nullData]???
 
-import jPhant.JPhant;
-import jPhant.JPhant.Stats;
+import JPhant.JPhant;
+import JPhant.JPhant.Stats;
 
 public class JPhant_Thorough_Test {
 	public static void main(String[] sArgs) {

@@ -1,4 +1,4 @@
-package jPhant;
+package JPhant;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

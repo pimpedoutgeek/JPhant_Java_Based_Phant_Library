@@ -1,6 +1,6 @@
 package jPhant_Test;
 
-import jPhant.JPhant.JPhantConfig;
+import JPhant.JPhant.JPhantConfig;
 
 public class JPhant_Config_1 implements JPhantConfig {
 	// *** Enter Public/Private/Delete Keys below *** //
