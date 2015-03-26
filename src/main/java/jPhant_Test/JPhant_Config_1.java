@@ -6,6 +6,9 @@ public class JPhant_Config_1 implements JPhantConfig {
 	// *** Enter Public/Private/Delete Keys below *** //
 	private static final String sPHANT_PUBLIC_KEY = "8ddVyNJN8QcO0gW3dlj6";
 	private static final String sPHANT_PRIVATE_KEY = "pzz29b7bgqtzn18m92G0";
+//	private static final String sPHANT_PUBLIC_KEY 	= "yApEDDLqE3sga0JAKowj";
+//	private static final String sPHANT_PRIVATE_KEY 	= "4WgMKKvNM7tmqDG659eM";
+
 	//private static final String sPHANT_DELETE_KEY = "y33z18M8AjS5yz3vJnLY";
 
 	// *** Enter your Field Names below (Case Sensitive!) in SAME ORDER as Phant Returns *** //
